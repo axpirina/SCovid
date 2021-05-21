@@ -7,7 +7,7 @@
 **SCovid** (hardware for [IoMBian OS](https://github.com/Tknika/iombian) ) is a Nodemcu based sensor for CO2 monitoring. 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the telemetry of CO2 level at school using [IoMBian OS](https://github.com/Tknika/iombian) project.
-![enter image description here](Sentsoreak.png "Sensors")
+![enter image description here](images/Sentsoreak.png "Sensors")
 
 It measures the forwarding magnitudes. 
 
@@ -16,7 +16,7 @@ It measures the forwarding magnitudes.
 	 - Humidity     %
 	 - DEW point    ºC
  
-![enter image description here](Muntaia.png "Muntaia")
+![enter image description here](images/Muntaia.png "Muntaia")
 
 
 ## List of elements
