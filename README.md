@@ -7,7 +7,7 @@
 **SCovid** is a Nodemcu based sensor for CO2 monitoring. 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the telemetry of CO2 level at school using [IoMBian OS](https://github.com/Tknika/iombian) project.
-![enter image description here](images/Sentsoreak.png "Sensors")
+![enter image description here](Sentsoreak.png "Sensors")
 
 It measures the forwarding magnitudes. 
 
@@ -16,7 +16,7 @@ It measures the forwarding magnitudes.
 	 - Humidity     %
 	 - DEW point    ºC
  
-![enter image description here](images/Muntaia.png "Muntaia")
+![enter image description here](Muntaia.png "Muntaia")
 
 
 ## List of elements
@@ -30,7 +30,7 @@ It measures the forwarding magnitudes.
 > **Warning**: Try to buy locally ```nearest store```.
 
 ## Scheme
-![enter image description here](images/Senseair eskemafzz_bb "Scheme")
+![enter image description here](Senseair eskemafzz_bb "Scheme")
 
 
   - (For a more detailed information, please refer to the following [link](https://senseair.com/products/size-counts/s8-residential/))
@@ -41,34 +41,34 @@ It measures the forwarding magnitudes.
 Download and install Tasmotizer software.  [link](https://github.com/tasmota/tasmotizer))
 
 
-![enter image description here](images/Tasmotizer04 "Tasmotizer")
+![enter image description here](Tasmotizer04 "Tasmotizer")
 
 Follow the steps. 
 
 	 - Flash tasmota-sensors.bin latest firmware
 	 - Send hardware, wifi and MQTT configuration
 
-![enter image description here](images/Tasmotizer08 "Tasmotizer")
+![enter image description here](Tasmotizer08 "Tasmotizer")
 
 	 - Get IP and open the Web configuration tool
 
-![enter image description here](images/Tasmotizer10 "Tasmotizer")
+![enter image description here](Tasmotizer10 "Tasmotizer")
 
 Place sensors and nodemcu pinout according the schem.
 
-![enter image description here](images/Tasmotizer12 "Tasmotizer")
+![enter image description here](Tasmotizer12 "Tasmotizer")
 
 ## Soldering
 
 Prepare the elements with a female header in every pin on them. It requires a bit of soldering.
 
-![enter image description here](images/Elementuak.png)
+![enter image description here](Elementuak.png)
 
 ## Last step
 
  - Be sure that correct readings are displayed on the tasmota we server.
 
-![enter image description here](images/Tasmotizer12 "Tasmotizer")
+![enter image description here](Tasmotizer12 "Tasmotizer")
 
 
 ## Authors
