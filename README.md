@@ -41,34 +41,28 @@ It measures the forwarding magnitudes.
 Download and install Tasmotizer software.  [link](https://github.com/tasmota/tasmotizer))
 
 
-![enter image description here](Tasmotizer04 "Tasmotizer")
+![enter image description here](Tasmotizer04.png "Tasmotizer")
 
 Follow the steps. 
 
 	 - Flash tasmota-sensors.bin latest firmware
 	 - Send hardware, wifi and MQTT configuration
 
-![enter image description here](Tasmotizer08 "Tasmotizer")
+![enter image description here](Tramotizer08.png "Tasmotizer")
 
 	 - Get IP and open the Web configuration tool
 
-![enter image description here](Tasmotizer10 "Tasmotizer")
+![enter image description here](Tasmotizer10.png "Tasmotizer")
 
 Place sensors and nodemcu pinout according the schem.
 
-![enter image description here](Tasmotizer12 "Tasmotizer")
-
-## Soldering
-
-Prepare the elements with a female header in every pin on them. It requires a bit of soldering.
-
-![enter image description here](Elementuak.png)
+![enter image description here](Tasmotizer12.pmg "Tasmotizer")
 
 ## Last step
 
  - Be sure that correct readings are displayed on the tasmota we server.
 
-![enter image description here](Tasmotizer12 "Tasmotizer")
+![enter image description here](Tasmotizer12.png "Tasmotizer")
 
 
 ## Authors
