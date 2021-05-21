@@ -30,7 +30,7 @@ It measures the forwarding magnitudes.
 > **Warning**: Try to buy locally ```nearest store```.
 
 ## Scheme
-![enter image description here](Senseair eskemafzz_bb.png "Scheme")
+![enter image description here](Muntaia.png "Muntaia")
 
 
   - (For a more detailed information, please refer to the following [link](https://senseair.com/products/size-counts/s8-residential/))
