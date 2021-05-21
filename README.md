@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**SCovid** (hardware for Nodemcu) is a Nodemcu based sensor for CO2 monitoring. 
+**SCovid** is a Nodemcu based sensor for CO2 monitoring. 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the telemetry of CO2 level at school using [IoMBian OS](https://github.com/Tknika/iombian) project.
 ![enter image description here](images/Sentsoreak.png "Sensors")
