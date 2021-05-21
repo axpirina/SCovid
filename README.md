@@ -32,6 +32,7 @@ It measures the forwarding magnitudes.
 ## Scheme
 ![enter image description here](eskemafzz_bb.png "Muntaia")
 
+![enter image description here](eskemafzz_schem.png "Muntaia")
 
   - (For a more detailed information, please refer to the following [link](https://senseair.com/products/size-counts/s8-residential/))
 
