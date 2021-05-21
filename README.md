@@ -56,7 +56,7 @@ Follow the steps.
 
 Place sensors and nodemcu pinout according the schem.
 
-![enter image description here](Tasmotizer12.pmg "Tasmotizer")
+![enter image description here](Tasmotizer12.png "Tasmotizer")
 
 ## Last step
 
